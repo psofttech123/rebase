@@ -1,5 +1,6 @@
 <?php
 
-echo "rebase Test";
+echo "Rebase Test";
+echo "onother Test";
 exit;
 ?>
