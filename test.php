@@ -1,5 +1,5 @@
 <?php
 
-echo "Rebase new Test";
+echo "Master commit Test";
 exit;
 ?>
