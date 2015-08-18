@@ -1,5 +1,5 @@
 <?php
 
-echo "rebase Test";
+echo "Rebase new Test";
 exit;
 ?>
